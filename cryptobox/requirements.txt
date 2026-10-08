@@ -1,0 +1,5 @@
+# Cryptobox 运行时不依赖任何第三方库，仅使用 Python 标准库。
+# 需要图形界面时请确保系统已安装 Tkinter（Windows/macOS 官方 Python 自带）。
+#
+# 仅在打包成可执行文件时才需要：
+# pyinstaller>=6.0
